@@ -1,2 +1,2 @@
-# public
-publiczne repozytorium testowe
+# Public: oscarwrobel/public
+## Publiczne repozytorium testowe
